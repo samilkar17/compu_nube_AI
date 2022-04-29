@@ -1,0 +1,11 @@
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+
+<html><body style="background:black">
+<div style="width:100%;display:flex;justify-content:center;flex-direction:column">
+
+<img src="https://forum.cs-cart.com/uploads/monthly_08_2014/post-9178-0-53999300-1408941388.jpg"/>
+</div>
+</body></html>
